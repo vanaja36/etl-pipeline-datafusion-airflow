@@ -9,6 +9,8 @@ This project demonstrates an **end-to-end ETL (Extract, Transform, Load) pipelin
 - **Apache Airflow** for orchestration
 
 The pipeline automates the process of generating synthetic employee data, staging it in GCS, transforming it in Data Fusion, and loading the cleaned data into BigQuery for analytics.
+## 🚀 Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/962ea486-ef53-4c29-863b-4a2296f55b10" />
 
 
 ## 🛠️ Tools & Technologies
